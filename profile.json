@@ -4,12 +4,10 @@
 		"label": "Learning programming",
 		"picture": "profile.png",
 		"email": "abhiyanbeta@testmail.com",
-		"phone": "(912) 98765-4321",
-		"website": "https://reactdude.com/",
-		"twitter": "https://twitter.com/prakis",
-		"facebook": "https://www.facebook.com/Stringify.me",
-		"github": "http://github.com/prakis",
-		"summary": "I work as a consultant, designing and developing web (<b>Java</b>, <b>ReactJS</b>, <b>NodeJS</b>) & desktop (<b>C#</b>, <b>JavaFX</b>) apps. I have over 16 years experience in software development and 2 years in Nanotechnology."
+		"website": "https://abhiyanbeta.github.io/blog/",
+		"twitter": "https://twitter.com/abhiyanbeta",
+		"github": "http://github.com/abhiyanbeta",
+		"summary": "I am a medical student at UCL. I also recently started learning programming and am documenting my journey. At the moment I am learning Python."
 	},
 	"theme": {
 		"url": "https://github.com/prakis/stringify.me-theme",
